@@ -33,8 +33,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![EMPD experiment4 record1](https://github.com/Hashwatha/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/150231431/780bbb89-fe61-47c0-87c6-c4209aee4418)
+
+### Name: M.Hashwatha
+### Register Number: 23012398
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
